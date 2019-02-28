@@ -1,4 +1,4 @@
-![OCKHAM-DESKTOP](https://user-images.githubusercontent.com/8069294/35097070-78c0dc40-fc46-11e7-9bb0-ad36f7182f39.png)
+![OCKHAM-DESKTOP](https://github.com/OckhamConsulting/ock-deployer/banner.png)
 
 ## Prerequisites
 
